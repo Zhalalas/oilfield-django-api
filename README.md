@@ -31,7 +31,7 @@ A RESTful API for managing oilfield operations, including wells, sensors, and pr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/oilfield-api-django.git
+git clone https://github.com/Zhalalas/oilfield-api-django.git
 cd oilfield-api-django
 ```
 
